@@ -5,7 +5,7 @@
 
 My name is Rose McCormack, and I am the owner of this repository. 
 
-I hope you enjoy my first true repository. 
+I hope you enjoy my first true repository. <3 :3 
 
 ## Hobbies/Interests
    -----------------
