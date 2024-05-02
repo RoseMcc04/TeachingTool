@@ -5,7 +5,7 @@
 
 My name is Rose McCormack, and I am the owner of this repository. 
 
-I hope you enjoy my first true repository. <3 :3 
+I hope you enjoy my first true repository. :heart::rainbow::transgender_flag: 
 
 ## Hobbies/Interests
    -----------------
@@ -14,7 +14,3 @@ I hope you enjoy my first true repository. <3 :3
 2. Advocacy
 3. Mathematics
 4. Teaching
-
-
-
-
