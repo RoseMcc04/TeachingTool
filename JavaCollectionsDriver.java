@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class JavaCollectionsDriver
+public class JavaCollectionsDriver implements JavaCollectionsInterface<T>
 {
     /**
     *@param args This is our main method where our data structures will be
@@ -11,14 +11,14 @@ public class JavaCollectionsDriver
     */
 	public static void main(String[] args) throws IOException
 	{
-        LinkedList<Integer> struct_ONE = new ArrayList<>();
-        Set<Integer> struct_TWO = new HashSet<>();
-        Map<Integer, Integer> struct_THREE = new MashMap<>();
+        LinkedList<T> struct_ONE = new ArrayList<>();
+        Set<T> struct_TWO = new HashSet<>();
+        Map<T, T> struct_THREE = new MashMap<>();
         // Remember that we are using PriorityQueue
-        Queue<Integer> struct_FOUR = new PriorityQueue<>();
+        Queue<T> struct_FOUR = new PriorityQueue<>();
         // Remember that we are using ArrayDeque
-        Deque<Integer> struct_FIVE = new ArrayDeque<>();
-        Stack<Integer> struct_SIX = new Stack<>();
+        Deque<T> struct_FIVE = new ArrayDeque<>();
+        Stack<T> struct_SIX = new Stack<>();
 	}
 }
 
