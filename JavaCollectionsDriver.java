@@ -11,14 +11,14 @@ public class JavaCollectionsDriver implements JavaCollectionsInterface<T>
     */
 	public static void main(String[] args) throws IOException
 	{
-        LinkedList<T> struct_ONE = new ArrayList<>();
-        Set<T> struct_TWO = new HashSet<>();
-        Map<T, T> struct_THREE = new MashMap<>();
-        // Remember that we are using PriorityQueue
-        Queue<T> struct_FOUR = new PriorityQueue<>();
-        // Remember that we are using ArrayDeque
-        Deque<T> struct_FIVE = new ArrayDeque<>();
-        Stack<T> struct_SIX = new Stack<>();
+        	LinkedList<T> struct_ONE = new ArrayList<>();
+        	Set<T> struct_TWO = new HashSet<>();
+        	Map<T, T> struct_THREE = new MashMap<>();
+        	// Remember that we are using PriorityQueue
+        	Queue<T> struct_FOUR = new PriorityQueue<>();
+        	// Remember that we are using ArrayDeque
+        	Deque<T> struct_FIVE = new ArrayDeque<>();
+        	Stack<T> struct_SIX = new Stack<>();
 	}
 }
 
