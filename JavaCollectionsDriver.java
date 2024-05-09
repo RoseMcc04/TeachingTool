@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class JavaCollectionsDriver
+public class JavaCollectionsDriver implements JavaCollectionsInterface<T>
 {
     /**
     *@param args This is our main method where our data structures will be
